@@ -69,5 +69,5 @@ reports/                 # Case study report summary and findings
  README.md                # Project documentation
 
 Christopher David Dangerfield
-LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-Email: [your.email@example.com](mailto:your.email@example.com)
+LinkedIn: (https://www.linkedin.com/in/christopher-dangerfield-5a7b7a314/)
+Email: chris.d.dangerfield@gmail.com
